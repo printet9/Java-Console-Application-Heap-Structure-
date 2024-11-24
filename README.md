@@ -1,5 +1,6 @@
 The Patient Priority System is simple Java-based console application designed to help healthcare providers prioritize patients based on the severity of their medical condition. The application uses a heap structure to ensure that the most critical patients are attended to first.
-What it can do?1. Add a Patient: Allows users to input a patient's name and severity level (1 = least severe, 10 = most severe).
+What it can do?
+1. Add a Patient: Allows users to input a patient's name and severity level (1 = least severe, 10 = most severe).
 2. View Highest-Priority Patient: Displays the patient with the most critical condition.
 3. Treat a Patient: Removes the highest-priority patient from the queue after treatment.
 4. View All Patients: Lists all patients in the queue, sorted by severity.
